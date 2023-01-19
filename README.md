@@ -4,6 +4,8 @@
 
 ## Opção 1: App para registro de fotos de lugares visitados
 
+Protótipo de referência para layout: <a href="https://www.figma.com/proto/mGuN1IhCjQQaDP1vJGuH9U/Wireframes-Apps?node-id=1%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2" target="_blank">Figma App 1</a>
+
 O app deverá ter:
 - Um botão para acionar a câmera para tirar uma foto do lugar
 - Um botão que obtenha a localização atual do usuário (ou seja, do local onde ele está tirando a foto)
@@ -19,6 +21,8 @@ Qualquer outro recurso poderá ser utilizado se você achar necessário.
 
 
 ## Opção 2: App para marcação de ponto
+
+Protótipo de referência para layout: https://www.figma.com/proto/mGuN1IhCjQQaDP1vJGuH9U/Wireframes-Apps?node-id=1%3A98&scaling=scale-down&page-id=1%3A97&starting-point-node-id=1%3A98
 
 O app deverá ter:
 - Carregamento automático da localização do usuário ao entrar no app
