@@ -18,12 +18,13 @@ Este aplicativo deverá combinar os recursos nativos: `ImagePicker`, `MapView` e
 Qualquer outro recurso poderá ser utilizado se você achar necessário.
 
 
-## Opção 2: App para simular um controle de ponto
+## Opção 2: App para marcação de ponto
 
 O app deverá ter:
-- Um botão para acionar a câmera para tirar um foto (selfie) do usuário
-- Um botão que obtenha a localização atual do usuário
+- Carregamento automático da localização do usuário ao entrar no app
 - Programação para obter a data/hora no momento em que o usuário estiver registrando o ponto
+- Um botão para salvar (simulação) o registro do ponto
+- Exibição dos dados em um Alert
 
 **Desafios:**
 - Salvar o registro usando algum recurso de armazenamento local (async storage ou api-fake com json-server) ou remoto (firebase)
