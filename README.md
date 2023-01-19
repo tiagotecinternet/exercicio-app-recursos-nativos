@@ -22,7 +22,7 @@ Qualquer outro recurso poderá ser utilizado se você achar necessário.
 
 O app deverá ter:
 - Um botão para acionar a câmera para tirar um foto (selfie) do usuário
-- Um botão que obtenha a localização atual do usuário (ou seja, do local onde ele está)
+- Um botão que obtenha a localização atual do usuário
 - Programação para obter a data/hora no momento em que o usuário estiver registrando o ponto
 
 **Desafios:**
