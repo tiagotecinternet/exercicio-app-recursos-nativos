@@ -24,7 +24,7 @@ O app deverá ter:
 - Carregamento automático da localização do usuário ao entrar no app
 - Programação para obter a data/hora no momento em que o usuário estiver registrando o ponto
 - Um botão para salvar (simulação) o registro do ponto
-- Exibição dos dados em um Alert
+- Exibição de mensagem em um Alert confirmando o registro
 
 **Desafios:**
 - Salvar o registro usando algum recurso de armazenamento local (async storage ou api-fake com json-server) ou remoto (firebase)
