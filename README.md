@@ -15,9 +15,9 @@ O app deverá ter:
 - Salvar o lugar visitado usando algum recurso de armazenamento local (async storage ou api-fake com json-server) ou remoto (firebase)
 - Exibir em uma tela uma lista com as fotos/lugares
 
-Este aplicativo deverá combinar pelo menos os recursos nativos: `ImagePicker`, `MapView` e `Location`.
+Este aplicativo deverá combinar **pelo menos** os recursos nativos: `ImagePicker`, `MapView` e `Location`.
 
-Qualquer outro recurso poderá ser utilizado se você achar necessário.
+*Fique a vontade para adicionar qualquer outro recurso que achar necessário!*
 
 
 ## Opção 2: App para marcação de ponto
@@ -34,6 +34,6 @@ O app deverá ter:
 - Salvar o registro usando algum recurso de armazenamento local (async storage ou api-fake com json-server) ou remoto (firebase)
 - Descobrir qual o nome da rua a partir da longitude e latitude (há APIs para isso, como por exemplo a: https://nominatim.openstreetmap.org/ui/reverse.html
 
-Este aplicativo deverá combinar pelo menos os recursos nativos: `MapView` e `Location`.
+Este aplicativo deverá combinar **pelo menos** os recursos nativos: `MapView` e `Location`.
 
-Qualquer outro recurso poderá ser utilizado se você achar necessário.
+*Fique a vontade para adicionar qualquer outro recurso que achar necessário!*
